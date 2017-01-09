@@ -10,6 +10,5 @@ We used "Weighted Voronoi Stippling" to get stipped image.
 
 
 
-
 # Preview of the application
-![](http://image_path/img.jpg)
+![](http://image_path/img.jpghttp://clip2net.com/clip/m527982/5cff1-clip-122kb.png)
