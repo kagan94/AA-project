@@ -1,4 +1,4 @@
-# Image processing into travel salesman tour
+# SINGLE LINE IMAGE FORMATION USING TSP
 
 ! I suggest to put this img on the poster:
 http://wiki.evilmadscience.com/s3/eggbot/tspart/mona-quartet.jpg
