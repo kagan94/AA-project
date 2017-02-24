@@ -14,7 +14,7 @@ We used "Weighted Voronoi Stippling" to get stipped image.
 (source: http://www.saliences.com/projects/npr/stippling/index.html)
 
 # Example of processed image
-![](http://clip2net.com/clip/m527982/93189-clip-317kb.jpg)
+![](https://raw.githubusercontent.com/kagan94/AA-project/master/src/1.png)
 
 # Preview of the application
-![](http://clip2net.com/clip/m527982/5cff1-clip-122kb.png)
+![](https://raw.githubusercontent.com/kagan94/AA-project/master/src/2.png)
